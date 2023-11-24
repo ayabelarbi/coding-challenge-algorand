@@ -1,0 +1,12 @@
+### Add an address to the watcher list
+POST http://localhost:8080/watcher
+Content-Type: application/json
+
+{
+ "address": "WTC7ZXGBPWCMGN7N5EG4OQ3GUQCD2OOLIMQ4LQYZLTVQZAA27O6NIJYCP4"
+}
+
+
+### List all watched accounts 
+GET http://localhost:8080/watcher
+

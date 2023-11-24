@@ -4,7 +4,7 @@ As part of this process, we would like you to complete a coding challenge that d
 
 ## Requirements
 
-Your task is to develop a REST API that allows users to add Algorand account addresses to a "watcher" list. 
+Your task is to develop a REST API that allows users to add Algorand account addresses to a "watcher" list.
 
 The application should have the following features:
 
@@ -18,8 +18,7 @@ The application should have the following features:
 
 ## Implementation
 
-When completing this coding challenge, keep in mind that we do not expect a fully fledge production-ready system, but all design & implementation decisions will be considered. So things like unit tests, configurability, documentation, ease of use, deployability, a well-structured codebase, etc; all will be taken into account. 
-
+When completing this coding challenge, keep in mind that we do not expect a fully fledge production-ready system, but all design & implementation decisions will be considered. So things like unit tests, configurability, documentation, ease of use, deployability, a well-structured codebase, etc; all will be taken into account.
 
 ## Resource
 

@@ -46,6 +46,3 @@ These accounts are used to test the fluctuation of account balances by sending t
 ### Adding Funds, Removing Funds 
 
 The funds in the wallet are already present. To test whether the account state has changed or not, I send funds from one account to another. Then we will be able to see the changes. 
-
-```./sandbox goal clerk send -a 123456789 -f A7NMWS3NT3IUDMLVO26ULGXGIIOUQ3ND2TXSER6EBGRZNOBOUIQXHIBGDE -t JRYKGHGPKWHS6ICOWCIQPBM4KS4Z7S4MNG3NCYYXX727IC7UJFQESEWY4E
- ```

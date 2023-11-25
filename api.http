@@ -3,10 +3,11 @@ POST http://localhost:8080/watcher
 Content-Type: application/json
 
 {
- "address": "WTC7ZXGBPWCMGN7N5EG4OQ3GUQCD2OOLIMQ4LQYZLTVQZAA27O6NIJYCP4"
+ "address": "JRYKGHGPKWHS6ICOWCIQPBM4KS4Z7S4MNG3NCYYXX727IC7UJFQESEWY4E"
 }
-
 
 ### List all watched accounts 
 GET http://localhost:8080/watcher
 
+### lists all the tracked accounts and their current states.
+GET http://localhost:8080/accounts
